@@ -56,5 +56,5 @@ class MainActivity : AppCompatActivity() {
         return navController.navigateUp(appBarConfiguration)
                 || super.onSupportNavigateUp()
     }
-vksvpowb vos
+today is a good day
 }
